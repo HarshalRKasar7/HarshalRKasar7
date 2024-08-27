@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 - **Tools:** Git, Docker
 - **Operating Systems:** Linux, Windows
 
-## 📚 What I'm Working On
+## 📚 Projects
 
 I'm currently focused on developing web applications that solve real-world problems. Here’s a glimpse of what I’ve been working on:
 
