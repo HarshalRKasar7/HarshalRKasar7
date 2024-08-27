@@ -39,7 +39,7 @@ I'm always open to discussing new ideas, potential collaborations, or simply cha
 
 ## 👨‍💻 Coding Platform
 
-###[LeetCode](https://leetcode.com/u/HarshalRKasar7/)
+[LeetCode](https://leetcode.com/u/HarshalRKasar7/)
 
 
 Thank you for visiting my profile. Don't forget to check out my repositories below. I’m excited to share my journey with you and look forward to contributing to the ever-evolving world of technology.
