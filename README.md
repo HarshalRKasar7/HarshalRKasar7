@@ -32,7 +32,7 @@ I'm currently focused on developing web applications that solve real-world probl
 ## 📫 How to Reach Me
 
 Feel free to connect with me on 
-[LinkedIn](https://www.linkedin.com/in/harshalrkasar7/)
+[LinkedIn](https://www.linkedin.com/in/harshalrkasar7/), 
 [Instagram](https://www.instagram.com/harshalrkasar7/)
 or drop me an email at harshalrkasar7@gmail.com. 
 I'm always open to discussing new ideas, potential collaborations, or simply chatting about technology!
