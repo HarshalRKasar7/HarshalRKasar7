@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Go, C, JavaScript, SQL
+- **Languages:** Python, Go, C, Java, SQL
 - **Frameworks:** Django
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker
